@@ -24,7 +24,7 @@ Before running the system, ensure you have the following installed:
 ## Installation  
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/Snehametre1404/Personal-Fitness-Tracker.git
+   https://github.com/Snehametre1404/Personal-Fitness-Tracker
  2.Navigate to the project directory:
 
    cd Personal-Fitness-Tracker
